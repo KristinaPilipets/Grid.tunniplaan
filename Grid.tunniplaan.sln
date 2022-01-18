@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Grid.tunniplaan", "Grid.tunniplaan.pyproj", "{226FEA83-C45F-456C-8848-371D9BBC46F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{226FEA83-C45F-456C-8848-371D9BBC46F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{226FEA83-C45F-456C-8848-371D9BBC46F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFF231FE-CC72-4800-83E0-B74F97DDAA5E}
+	EndGlobalSection
+EndGlobal
