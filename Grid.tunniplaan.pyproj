@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>226fea83-c45f-456c-8848-371d9bbc46f3</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>naides.py</StartupFile>
+    <StartupFile>Grid.tunniplaan.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>

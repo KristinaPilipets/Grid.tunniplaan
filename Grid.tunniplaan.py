@@ -1,1 +1,58 @@
+from tkinter import*
 
+wind=Tk()
+
+Label(text="            ").grid(row=0,column=0)
+Label(text="0\n7.40-8.25").grid(row=0,column=2,sticky=W+E+N+S)
+Label(text="1\n8.30-9.15").grid(row=0,column=3,sticky=W+E+N+S)
+Label(text="2\n9.20-10.05").grid(row=0,column=4,sticky=W+E+N+S)
+Label(text="3\n10.10-10.55").grid(row=0,column=5,sticky=W+E+N+S)
+Label(text="4\n11.00-11.45").grid(row=0,column=6,sticky=W+E+N+S)
+Label(text="5\n11.50-12.35").grid(row=0,column=7,sticky=W+E+N+S)
+Label(text="6\n12.40-13.25").grid(row=0,column=8,sticky=W+E+N+S)
+Label(text="7\n13.30-14.15").grid(row=0,column=9,sticky=W+E+N+S)
+Label(text="8\n14.20-15.05").grid(row=0,column=10,sticky=W+E+N+S)
+Label(text="9\n15.10-15.55").grid(row=0,column=11,sticky=W+E+N+S)
+Label(text="10\n16.00-16.45").grid(row=0,column=12,sticky=W+E+N+S)
+
+esm=Label(text="Esmaspäev").grid(row=1,rowspan=2,column=0,columnspan=2,sticky=W+E+N+S)
+teis=Label(text="Teisipäev").grid(row=3,rowspan=2,column=0,columnspan=2,sticky=W+E+N+S)
+kolm=Label(text="Kolmapäev").grid(row=5,rowspan=2,column=0,columnspan=2,sticky=W+E+N+S)
+nelj=Label(text="Neljapäev").grid(row=7,rowspan=2,column=0,columnspan=2,sticky=W+E+N+S)
+reede=Label(text="Reede").grid(row=9,rowspan=2,column=0,columnspan=2,sticky=W+E+N+S)
+
+Label(text=" ").grid(row=1,column=3,sticky=W+E+N+S)
+esttug2=Button(text="Tugiõpe Eesti keel \n 1 grupp",bg="#9d7a73").grid(row=2,column=3,sticky=W+E+N+S)
+esmLogist=Button(text="Logistikateenused ja \n varude juhtmine",bg="lightgreen").grid(row=1,rowspan=2,column=4,columnspan=2,sticky=W+E+N+S)
+mat=Button(text="Matemaatika",bg="pink").grid(row=1,rowspan=2,column=6,columnspan=2,sticky=W+E+N+S)
+Label(text=" Перерыв ").grid(row=1,rowspan=2,column=8,sticky=W+E+N+S)
+keel=Button(text="Keel ja kirjandus",bg="lightgreen").grid(row=1,rowspan=2,column=9,columnspan=2,sticky=W+E+N+S)
+tugmat=Button(text="Tugiõpe Matemaatika",bg="pink").grid(row=1,rowspan=2,column=11,sticky=W+E+N+S)
+
+Label(text=" ").grid(row=6,column=3,sticky=W+E+N+S)
+tugkeem=Button(text="Tugiõpe Keemia").grid(row=3,rowspan=2,column=3,sticky=W+E+N+S)
+teisprog=Button(text="Programmeerimise alused \n (eesti keeles)",bg="lightblue").grid(row=3,rowspan=2,column=4,columnspan=3,sticky=W+E+N+S)
+Label(text=" Перерыв ").grid(row=3,rowspan=2,column=7,sticky=W+E+N+S)
+fuusika=Button(text="Füüsika",bg="pink").grid(row=3,rowspan=2,column=8,columnspan=2,sticky=W+E+N+S)
+
+esttug1=Button(text="Tugiõpe Eesti keel \n 2 grupp").grid(row=5,column=3,sticky=W+E+N+S)
+kunst=Button(text="Kunstiained").grid(row=5,rowspan=2,column=4,columnspan=2,sticky=W+E+N+S)
+Label(text=" Перерыв ").grid(row=5,rowspan=2,column=6,sticky=W+E+N+S)
+kehalinekasv=Button(text="Kehaline Kasvatus").grid(row=5,rowspan=2,column=7,columnspan=2,sticky=W+E+N+S)
+
+neljLogist=Button(text="Logistikateenused ja \n varude juhtmine").grid(row=7,rowspan=2,column=3,columnspan=2,sticky=W+E+N+S)
+Label(text=" Перерыв ").grid(row=7,rowspan=2,column=5,sticky=W+E+N+S)
+neljprog=Button(text="Programmeerimise alused \n (eesti keeles)",bg="lightblue").grid(row=7,rowspan=2,column=6,columnspan=2,sticky=W+E+N+S)
+ingl1=Button(text="Inglise keel").grid(row=7,column=8,columnspan=2,sticky=W+E+N+S)
+merk2=Button(text="Rakendustarkvara ja \n arenduskeskkonna \n loomine (IT valdkonna alusteadmised)").grid(row=8,column=8,columnspan=2,sticky=W+E+N+S)
+merk1=Button(text="Rakendustarkvara ja \n arenduskeskkonna \n loomine (IT valdkonna alusteadmised)").grid(row=7,column=10,columnspan=2,sticky=W+E+N+S)
+est2=Button(text="Eesti keel \n 2 grupp").grid(row=8,column=10,columnspan=2,sticky=W+E+N+S)
+ruhm=Button(text="Rühmajuhataja tund").grid(row=7,rowspan=2,column=12,sticky=W+E+N+S)
+
+est1=Button(text="Eesti keel \n 1 grupp").grid(row=9,column=3,columnspan=2,sticky=W+E+N+S)
+merkul2=Button(text="Rakendustarkvara ja \n arenduskeskkonna \n loomine (IT valdkonna alusteadmised)").grid(row=10,column=3,columnspan=2,sticky=W+E+N+S)
+redprogram=Button(text="Programmeerimise alused \n (eesti keeles)",bg="lightblue").grid(row=9,rowspan=2,column=5,columnspan=5,sticky=W+E+N+S)
+merkul1=Button(text="Rakendustarkvara ja \n arenduskeskkonna \n loomine (IT valdkonna alusteadmised)").grid(row=9,column=10,columnspan=2,sticky=W+E+N+S)
+ingl2=Button(text="inglise keel").grid(row=10,column=10,columnspan=2,sticky=W+E+N+S)
+
+wind.mainloop()
