@@ -8,9 +8,11 @@ with open("TextFile.txt","r") as f:
 		Lessons[k.strip()]=v.strip() # добавляем в словарь
 
 def newwind(a):
+	a1=a.replace(" \n", "")
 	showinfo("tunni informatsioon",f"{a}")
 	newwd=Toplevel() #tk()
-	text=f"{Lessons.get(a)}"
+	abc=Label(newwd,text=Lessons.get(a1))
+	abc.pack()
 
 wind=Tk()
 

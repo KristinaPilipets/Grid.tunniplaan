@@ -1,17 +1,17 @@
-Tugiõpe Eesti keel \n 2 grupp - õpetaja: Ojamäe Olesja B 234
-Logistikateenused ja \n varude juhtmine - õpetaja: Klimanskaja Inessa B 002
-Matemaatika - õpetaja: Voronova Nadeþda B 133
-Keel ja kirjandus - õpetaja: Mihhailova Ljudmila B 221
-Tugiõpe \n Matemaatika - õpetaja: Voronova Nadeþda B 133
-Tugiõpe Keemia - õpetaja: Pesetskaja Svetlana B 144
-Programmeerimise alused \n (eesti keeles) - õpetaja: Oleinik Marina E 07
-Füüsika - õpetaja: Voronova Nadeþda B 133
-Tugiõpe Eesti keel \n 1 grupp - õpetaja: Laaneväli-Toots Alina B 236
+Tugiõpe Eesti keel 2 grupp - õpetaja: Ojamäe Olesja B 234 
+Logistikateenused ja varude juhtmine - õpetaja: Klimanskaja Inessa B 002 
+Matemaatika - õpetaja: Voronova Nadezda B 133 
+Keel ja kirjandus - õpetaja: Mihhailova Ljudmila B 221 
+Tugiõpe Matemaatika - õpetaja: Voronova Nadezda B 133 
+Tugiõpe Keemia - õpetaja: Pesetskaja Svetlana B 144 
+Programmeerimise alused (eesti keeles) - õpetaja: Oleinik Marina E 07
+Füüsika - õpetaja: Voronova Nadezda B 133
+Tugiõpe Eesti keel 1 grupp - õpetaja: Laaneväli-Toots Alina B 236
 Kunstiained - õpetaja: Norkevitð Aleksandra B 232
 Kehaline Kasvatus - õpetaja: Maksõmiv Maksim Võimla A
-Inglise keel \n 1 grupp - õpetaja: Poskotinova Olga B 138
-Rakendustarkvara ja \n arenduskeskkonna loomine \n (IT valdkonna alusteadmised) - õpetaja: Merkulova Irina E 10
-Eesti keel \n 2 grupp - õpetaja: Ojamäe Olesja B 234
-Eesti keel \n 1 grupp - õpetaja: Laaneväli-Toots Alina B 236
-Rühmajuhataja \n tund - õpetaja: Laaneväli-Toots Alina B 236
-Inglise keel \n 2 grupp - õpetaja: Borodina Olga B 227
+Inglise keel 1 grupp - õpetaja: Poskotinova Olga B 138
+Rakendustarkvara ja arenduskeskkonna loomine (IT valdkonna alusteadmised) - õpetaja: Merkulova Irina E 10
+Eesti keel 2 grupp - õpetaja: Ojamäe Olesja B 234
+Eesti keel 1 grupp - õpetaja: Laaneväli-Toots Alina B 236
+Rühmajuhataja tund - õpetaja: Laaneväli-Toots Alina B 236
+Inglise keel 2 grupp - õpetaja: Borodina Olga B 227
