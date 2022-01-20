@@ -16,4 +16,8 @@ Button(text="Справка").grid(row=2,column=0)
 Button(text="Вставить").grid(row=2,column=2)
 Button(text="Отменить").grid(row=2,column=3)
 
+def which_button(button_press):
+   print (button_press)
+bn = Button(app, text="#Text you want to show in button bn", command=lambda m="#Text you want to show when bn is clicked": which_button(m))
+
 root.mainloop()
