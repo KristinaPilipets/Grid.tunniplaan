@@ -11,7 +11,8 @@ def newwind(a):
 	a1=a.replace(" \n", "")
 	showinfo("tunni informatsioon",f"{a}")
 	newwd=Toplevel() #tk()
-	abc=Label(newwd,text=Lessons.get(a1))
+	abc=Label(newwd,text=Lessons.get(a1),font="Calibri 23",fg="black",justify=CENTER)
+	newwd.geometry("500x100")
 	abc.pack()
 
 wind=Tk()
